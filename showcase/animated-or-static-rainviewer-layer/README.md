@@ -4,6 +4,8 @@ authors:
 title: Rainviewer Overlay
 ---
 
+![rainviewer screenshot](rainviewer.png)
+
 I just wanted to share my config after creating a rainviewer overlay, and correcting the dark mode display with card mod.
 
 I'll lay out the code first, then mention some hurdles I had, and how I worked around them.
@@ -167,9 +169,6 @@ tile_layers:
 ```
 
 
-Here is how it looks:
-
-![rainviewer screenshot](rainviewer.png)
 
 I tried getting a traffic overlay on the map as well, but I gave up at the point where I realized I'd probably have to pay for an API to do so. If anyone has any suggestions, I'd love to hear them!
 
